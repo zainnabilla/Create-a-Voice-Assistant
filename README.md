@@ -13,5 +13,4 @@ Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
 - Program : IBM Advance AI
 - Mentor : Wahyudi
 
-[Certificate _ Cognitive Class_Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson_Nabilla Zain Faruchi.pdf]
-(https://github.com/zainnabilla/Create-a-Voice-Assistant/files/14457618/Certificate._.Cognitive.Class_Create.a.Voice.Assistant.with.OpenAI.s.GPT-3.and.IBM.Watson_Nabilla.Zain.Faruchi.pdf)
+[Certificate _ Cognitive Class_Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson_Nabilla Zain Faruchi.pdf](https://github.com/zainnabilla/Create-a-Voice-Assistant/files/14457618/Certificate._.Cognitive.Class_Create.a.Voice.Assistant.with.OpenAI.s.GPT-3.and.IBM.Watson_Nabilla.Zain.Faruchi.pdf)
